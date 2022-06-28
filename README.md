@@ -5,6 +5,7 @@
 ├── official classes
 │   ├── folhas_aulas.pdf
 │   ├── French Folk Song.pdf
-│   ├──Suzuki Violin Method - Vol 01.pdf
+│   ├── Suzuki Violin Method - Vol 01.pdf
+│   ├── all-for-strings-violin-book1.pdf
 
 ```
